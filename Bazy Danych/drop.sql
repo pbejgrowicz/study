@@ -1,0 +1,13 @@
+drop table sam_pil;
+drop table lot_pas;
+drop table lot_zam;
+drop table urlop;
+drop table zamowienie;
+drop table lot;
+drop table samolot;
+drop table pilot;
+drop table pasazer;
+drop table pracownik;
+drop table warsztat;
+drop table linialotnicza;
+drop table osoba;
